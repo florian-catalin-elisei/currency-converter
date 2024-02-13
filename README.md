@@ -24,6 +24,13 @@ Install my-project with npm
 ```bash
   npm install
 ```
+
+4. Start the development server:
+
+```bash
+  npm start
+```
+
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file
