@@ -1,16 +1,15 @@
 # Currency Converter
 
-This Node.js application provides a simple currency converter using the ExchangeRate-API and Rest Countries API. It allows users to convert a specified amount from one
-currency to another and provides information about countries that use the target currency.
+This application provides a simple currency converter using the Forex Convertor API and Rest Countries API. It allows users to convert a specified amount from one currency to another and provides information about countries that use the target currency.
 
 ## Installation
 
-Install my-project with npm
+Install my project with npm
 
 1. Clone the repository:
 
 ```bash
-  git clone https://github.com/your-username/currency-converter.git
+  git clone https://github.com/florian-catalin-elisei/currency-converter.git
 ```
 
 2. Navigate to the project directory:
@@ -37,4 +36,4 @@ To run this project, you will need to add the following environment variables to
 
 `EXCHANGE_RATE_API_KEY`
 
-API key for the ExchangeRate-API. Obtain one by signing up at [ExchangeRate-API](https://www.exchangerate-api.com/)
+API key for the Exchange Rate API. Obtain one by signing up at [Forex Convertor API](https://rapidapi.com/deelerb-LJ92rVR1-mf/api/forex-convertor/)
